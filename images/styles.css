@@ -1,0 +1,16 @@
+:root {
+    --white: #FFFFFF;
+    --blue-background: #071629;
+    --salmon: #FF6565;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: "Soure Sans Pro";
+}
+
+.hero-section {
+    background-image: url("images/hearing.png")
+}
